@@ -3,7 +3,7 @@
 
 /**
  * main - this is the main function
- * 
+ *
  * Return: 1 if successful
 */
 
