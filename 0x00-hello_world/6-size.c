@@ -5,6 +5,7 @@
  * 
  * Return: 0 if successfull
 */
+
 int main(void)
 {
     printf("size of a char: %lu byte(s)", sizeof(char))
