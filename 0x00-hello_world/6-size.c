@@ -3,14 +3,14 @@
 /**
  * main - this is the main fucntion
  * 
- * Return; 0 if successfull
+ * Return: 0 if successfull
 */
 int main(void)
 {
-    printf("size of char; %lu byte(s)", sizeof(char)\n)
-    printf("size of int; %lu byte(s)", sizeof(int)\n)
-    printf("size of a long int; %lu byte(s)", sizeof(long int)\n)
-    printf("size of long long int; %lu byte(s)"; sizeof(long long int)\n)
-    printf("size of float; %lu byte(s)"; sizeof(float)\n)
+    printf("size of a char: %lu byte(s)", sizeof(char))
+    printf("size of int: %lu byte(s)", sizeof(int))
+    printf("size of a long int: %lu byte(s)", sizeof(long int))
+    printf("size of a long long int: %lu byte(s)", sizeof(long long int))
+    printf("size of a float: %lu byte(s)", sizeof(float))
     return (0);
 }
