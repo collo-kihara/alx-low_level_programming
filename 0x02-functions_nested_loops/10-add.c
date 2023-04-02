@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _add -adds two numbers
+ * add -adds two numbers
  * 
  * @i: parameter 1
  * @k: parameter 2
